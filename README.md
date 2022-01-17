@@ -22,14 +22,22 @@ Design de cartas de baralho para jogos online
         (calculei isso em algum momento
             não lembro onde nem porquê
         )
+    Gifs exportados com tamanho 2.70 X 4.00
+        ( = 259 x 384 pixels)
 
 
-## Modelos 01
+## Pasta Versos
+    Idéias para a "parte de trás" das cartas
+        para serem usadas quando forem exibidas "viradas para baixo"
+    Aplicação simples de padrões e hachuras do Drawer
+
+
+## Pasta Modelos 01
     Simulam cartas "tamanho real"
         com os valores no esquerdo superior e direito inferior
         úteis para o layout que simula "cartas na mão"
 
-## Modelos 02
+## Pasta Modelos 02
     Layouts para exibição "inteira"
         Valores das cartas ocupam toda a área da carta
         podem ser úteis quando há muitas cartas a serem exibidas
@@ -37,6 +45,14 @@ Design de cartas de baralho para jogos online
             com um tamanho de imagem pequeno
         sem esconder a parte vazia da carta
             que é todo o lado direito após o valor
+
+## Pasta modelos 03
+    Layouts para exibição "somente topo"
+        Valor e Naipe ficam lado a lado no topo
+        ocupando altura de 25% do total
+        Útil para quando quiser "empilhar"
+        mostrando somente a parte superior
+
 
 
 
