@@ -5,7 +5,7 @@ Design de cartas de baralho para jogos online
     então resolvi desenhar as minhas próprias.
     Desenhei no LibreOffice Drawer,
         usando fonte MathJax_Typewriter para os valores das cartas
-        e caracteres especiais da fonte DejavuSans para os naipes
+        e caracteres especiais da fonte LiberationSans para os naipes
     
 ## Se alguém quiser usar isto
     Recomendo que abra os arquivos do Drawer e reveja os alinhamentos,
